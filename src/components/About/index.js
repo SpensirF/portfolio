@@ -33,9 +33,8 @@ const About = () => {
                 <p>
                     In my free time, you can find me being creative is multiple mediums like: videography, streaming (via Twitch), entertaining, and in music. Outside of creating I am very passionate about video games. Currently I am self-proclaim semi-pro when it comes to fighting games haha, but love taking part in all games.
                 </p>
-                
             </div>
-
+            
             <div className="stage-cube-cont">
                 <div className="cubespinner">
                     <div className="face1">
@@ -59,6 +58,7 @@ const About = () => {
                 </div>
             </div>
         </div>
+        
         <Loader type="pacman" />
         </>
     )

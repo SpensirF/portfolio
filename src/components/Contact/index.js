@@ -25,7 +25,7 @@ const Contact = () => {
         .sendForm(
             'service_eydlyfs',
             'template_71ssnhb',
-            refForm.current,
+             refForm.current,
             'Ld2XyYzUyGP52oMl2'
         )
         .then(
@@ -83,7 +83,7 @@ const Contact = () => {
                 California 
                 <br/>
                 Whittier 90603 <br/>
-                <span>spencnick@me.com</span>
+                <span>Spensirfields@gmail.com</span>
             </div>
             <div className='map-wrap'>
                 <MapContainer center={[33.945080, -117.995191]} zoom={13}>

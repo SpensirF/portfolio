@@ -1,6 +1,7 @@
 import './index.scss';
 // import LogoS from '../../../assets/images/logo-s.png';
-import Spencer from '../../../assets/images/Spencer.png'
+import Spencer from '../../../assets/images/Spencer.png';
+// import Logos from '../../../assets/images/logo-s-old.png';
 import { useEffect, useRef } from 'react';
 import gsap from 'gsap-trial';
 import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin';
